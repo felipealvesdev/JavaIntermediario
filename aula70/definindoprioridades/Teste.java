@@ -1,4 +1,4 @@
-package aulta70.definindoprioridades;
+package aula70.definindoprioridades;
 
 import aula69.isalivejoin.MinhaThreadRunnable;
 
